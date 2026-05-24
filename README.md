@@ -1,6 +1,6 @@
 #  Key & Chord Finder (Java)
 A beginner project built during my first year of B.Tech CSE
-This is a simple Java-based music theory project that:
+- This is a simple terminal based music theory project that:
 - Generates major scales
 - Displays chords in a key
 - Finds the relative minor
