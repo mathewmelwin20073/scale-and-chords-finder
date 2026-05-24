@@ -5,20 +5,20 @@ This is a simple Java-based music theory project that:
 - Displays chords in a key
 - Finds the relative minor
 ## Example
--Input:
--C
--Output:
--======================
--SCALE AND CHORD FINDER
--======================
--Enter the root note:
--C
--C Major Scale:
--C->D->E->F->G->A->B->
--Chords in the key of C are:
--C major|D minor|E minor|F major|G major|A minor|B dim|
--Relative minor:
--A minor
+- Input:
+- C
+- Output:
+- ======================
+- SCALE AND CHORD FINDER
+- ======================
+- Enter the root note:
+- C
+- C Major Scale:
+- C->D->E->F->G->A->B->
+- Chords in the key of C are:
+- C major|D minor|E minor|F major|G major|A minor|B dim|
+- Relative minor:
+- A minor
 ## Concepts Used
 - Arrays
 - Loops
