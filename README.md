@@ -9,7 +9,7 @@ A beginner project built during my first year of B.Tech CSE
 - C
 - Output:
 - ======================
-- SCALE AND CHORD FINDER
+- SCALE AND CHORDS FINDER
 - ======================
 - Enter the root note:
 - C
