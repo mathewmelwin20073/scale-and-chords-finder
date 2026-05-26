@@ -8,7 +8,7 @@ public class ChordFinder
        String chordTypes[]={"major","minor","minor","major","major","minor","dim"};//stores all the chord types
        int intervals[]={2,2,1,2,2,2,1};//stores the intervals between each note of the major scale
        System.out.println("======================");
-       System.out.println("SCALE AND CHORD FINDER");
+       System.out.println("SCALE AND CHORDS FINDER");
        System.out.println("======================");
        System.out.println("Enter the root note:");
        String root=sc.nextLine().toUpperCase();
